@@ -32,3 +32,16 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 
 [LCD](https://github.com/medAzizLHB/Arduino-Roadmap/tree/main/10-I2C%20lcd) : Display a text on screen
 
+
+# Your first project: 
+
+
+Gas leaks can go undetected and cause death. We can solve this by building a gas level detecting system using Gas sensor and a buzzer.
+
+   1.  Display the gas percentage on the LCD Display
+
+  2. Detect dangerous levels of gas concentration using if-conditions.
+
+  3.  Make an alarm using a buzzer and LEDs.
+
+
